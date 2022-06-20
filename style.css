@@ -1,0 +1,246 @@
+.alumni{
+    background-color:#0072bc;
+    text-align:center;
+    color:white;
+    padding-top:6px;
+    padding-bottom:6px;
+}
+.mail-contact{
+    color:#fff;
+    font-size:15px;
+    text-decoration:none;
+}
+.mail-contact:hover{
+    color:#fff;
+    text-decoration:none;
+}
+.fab{
+    color:white;
+    background-color:#0072bc;
+    font-size:20px;
+    padding:4px; 
+    margin-right:2px;
+    border-radius:60px;
+   
+}
+.fab:hover{
+    color:#0072bc;
+    background-color:white;
+}
+.developing-global{
+    font-family: 'Dancing Script', cursive !important;
+    background-image:linear-gradient(45deg , #0072bc, #d22215);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+    padding-top:20px;
+}
+.parent-login{
+    color:white;
+    background-color: #0072bc;
+    border:2px solid #0072bc;
+    border-radius:60px;
+    box-shadow: none;
+    padding:8px ;
+    font-size:16px;
+    font-weight: 600;
+    text-decoration:none;
+}
+.parent-login:hover{
+    color:#0072bc;
+    background-color: #fff;
+    border:2px solid #0072bc;
+    text-decoration:none;
+}
+.online-admission{
+    color:#0072bc;
+    background-color:white;
+    border:2px solid #0072bc;
+    border-radius:60px;
+    box-shadow:none;
+    padding:8px;
+    font-size:16px;
+    font-weight:600;
+    text-decoration:none;
+}
+.online-admission:hover{
+    color:white;
+    background-color:#0072bc;
+    border:2px solid white;
+    text-decoration:none; 
+}
+.mynav{
+    height:auto;
+}
+.nav-link:hover{
+    background-color: #0072bc;
+    color:#fff;
+}
+.navbar-icon{
+    color:#0072bc;
+    font-size:25px;
+}
+.navbar-margin{
+    display:flex;
+    flex-wrap:wrap;
+}
+.dropdown-menu{
+    background-color:#142141;
+    color:red;
+}
+.news-flash{
+    text-align:center;
+    color:white;
+    font-size:22px;
+    background-color:#d25115;
+    padding:2px 0px 3px 0px;
+    border-bottom-left-radius:13px;   
+}
+.news-flash-marquee{
+    color:white;
+    background-color:#0072bc;
+    padding-top:6px;
+    border-bottom-right-radius:13px;
+}
+.marquee{
+    color:white;
+    text-decoration: none;
+}
+.marquee:hover{
+    color:yellow;
+    text-decoration:none;
+}
+.euro-float{
+    color:#49609b;
+    font-size:30px;
+}
+.students{
+    font-size:18px;
+    text-align:justify;
+    font-family:Comic Sans MS;
+}
+.view-more{
+    color:white;
+    text-decoration: none;
+    font-size:16px;
+    background-color:#131E3A;
+    border-radius:30px;
+    padding:8px 20px 8px 20px;
+    margin-bottom:10px;
+    box-shadow:3px 3px 0px 0px gray;
+}
+.view-more:hover{
+    color:yellow;
+    text-decoration:none;
+}
+.view-more:hover{
+    color:#FFBF00;
+    text-decoration: none;
+}
+.image-float{
+    box-shadow:0.5rem 0px 0px 0px pink, 0px 0.5rem 0px 0px #131E3A, 0px -0.5rem 0px 0px pink, -0.5rem 0px 0px 0px #131E3A;
+    padding:8px;
+}
+.main-vision{
+    background-color:#142141;
+    color:white;
+}
+.our-vision{
+    color:#FFBF00;
+    font-size:30px;
+    padding-top:40px;
+}
+.pratibha{
+    font-size:17px;
+    padding-bottom:10px;
+    text-align:left;
+}
+.vision-more{
+    color:white;
+    text-decoration: none;
+    font-size:16px;
+    background-color:#EF820D;
+    border-radius:30px;
+    padding:8px 20px 8px 20px;
+}
+.vision-more:hover{
+    color:black;
+    text-decoration:none;
+}
+.card-title{
+    color:#131E3A;
+    text-align:center;
+}
+.satyavir{
+    color:#0072bc;
+    text-align:center;
+    font-size:18px;
+    padding-top:10px;
+}
+.education{
+    text-align:center;
+    font-size:17px;
+    font-family:Comic Sans MS;
+}
+.upcoming-order{
+    color:gray;
+    font-size:23px;
+}
+.upcoming{
+    color:black;
+    font-size:17px;
+    padding:8px 0px 8px 0px;
+}
+.upcoming:hover{
+    color:black;
+    text-decoration:none;
+}
+.social-media{
+    font-size:30px;
+    text-align:center;
+}
+.gallery{
+    font-size:30px;
+    text-align:center;
+    color:#131E3A;
+    padding-top:25px;
+}
+.latest-event{
+    font-size:30px;
+    text-align:center;
+    color:black;
+}
+.campuses-carousel{
+    background-color:#e8fcff;
+    padding-bottom:50px;
+}
+.campus-tour{
+    color:#0D6EFD;
+}
+.footer-address{
+    font-size:19px;
+}
+.quick-link{
+    color:#FFBF00;
+    font-size:26px;
+}
+.quick-order{
+    list-style-type:none;
+}
+.quick-list{
+    padding-top:20px;
+    padding-bottom:5px;
+}
+.quick-item{
+    color:white;
+    font-size:16px;
+}
+.quick-item:hover{
+    color:#FFBF00;
+    text-decoration:none;
+}
+.copyright{
+    font-size:18px;
+    text-align:center;
+    font-weight:500;
+    font-style:italic;
+}
